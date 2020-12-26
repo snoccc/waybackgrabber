@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 ```
 ### Usage
 ```
-python3 waybackgrabber.py [-h] -t TARGET [-l LIMIT]
+python3 waybackgrabber.py -t TARGET [-l LIMIT]
 ```
 ### Examples
 ```
