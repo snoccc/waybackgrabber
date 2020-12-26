@@ -6,7 +6,6 @@ import pandas
 import sys
 import json
 import os
-import time
 
 def getUrls():
 	# get every url except "original", the column name
