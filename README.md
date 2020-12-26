@@ -3,7 +3,7 @@
 A Python tool that lets you access The Wayback Machine in a terminal and creates a webpage to quickly search through the results.
 
 # Setup
-First, navigate to the Python directory.
+1. Navigate to the Python directory.
 
 To install the required packages, run
 ```
