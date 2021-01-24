@@ -22,3 +22,10 @@ You can limit the amount of results by adding `-l <RESULTS>`
 
 # Results
 Results are stored in a folder called `./Grabs/<target>/`, in there you will find the webpage and a json file containing the results.
+
+# Preview
+### Terminal
+![](![](https://i.imgur.com/5CI41PE.png)
+
+### Webpage
+![](https://i.imgur.com/TVSxOnM.png)
