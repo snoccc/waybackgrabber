@@ -25,7 +25,7 @@ Results are stored in a folder called `./Grabs/<target>/`, in there you will fin
 
 # Preview
 ### Terminal
-![](![](https://i.imgur.com/5CI41PE.png)
+![]((https://i.imgur.com/5CI41PE.png)
 
 ### Webpage
 ![](https://i.imgur.com/TVSxOnM.png)
